@@ -1,5 +1,4 @@
 class PrefixTree:
-
     def __init__(self):
         self.trie = {}
         self.EXIST = -1
